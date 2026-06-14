@@ -1,0 +1,194 @@
+Moscow
+Saint Petersburg
+Novosibirsk
+Yekaterinburg
+Kazan
+Vladimir
+Nizhny Novgorod
+Samara
+Omsk
+Krasnoyarsk
+Rostov-on-Don
+Ufa
+Volgograd
+Perm
+Voronezh
+Krasnodar
+Saratov
+Tyumen
+Tolyatti
+Izhevsk
+London
+Paris
+Berlin
+Madrid
+Rome
+Amsterdam
+Brussels
+Vienna
+Prague
+Warsaw
+Budapest
+Lisbon
+Stockholm
+Oslo
+Copenhagen
+Helsinki
+Athens
+Dublin
+Zurich
+Barcelona
+Beijing
+Shanghai
+Shenzhen
+Guangzhou
+Harbin
+Tokyo
+Seoul
+Bangkok
+Singapore
+Hong Kong
+Taipei
+Kuala Lumpur
+Jakarta
+Manila
+Hanoi
+New York
+Los Angeles
+Chicago
+Houston
+Phoenix
+Toronto
+Vancouver
+Montreal
+Calgary
+Ottawa
+Sao Paulo
+Rio de Janeiro
+Buenos Aires
+Lima
+Bogota
+Santiago
+Caracas
+Quito
+Montevideo
+La Paz
+Cairo
+Lagos
+Nairobi
+Johannesburg
+Cape Town
+Casablanca
+Addis Ababa
+Dar es Salaam
+Accra
+Tunis
+Sydney
+Melbourne
+Brisbane
+Auckland
+Wellington
+Dubai
+Doha
+Riyadh
+Abu Dhabi
+Muscat
+Istanbul
+Ankara
+Tehran
+Baghdad
+Amman
+Mumbai
+Delhi
+Bangalore
+Chennai
+Kolkata
+Islamabad
+Lahore
+Dhaka
+Colombo
+Kathmandu
+Murmansk
+Arkhangelsk
+Sochi
+Vladivostok
+Irkutsk
+Yakutsk
+Petropavlovsk-Kamchatsky
+Kaliningrad
+Smolensk
+Tver
+Munich
+Hamburg
+Milan
+Naples
+Valencia
+Seville
+Porto
+Lyon
+Marseille
+Geneva
+Osaka
+Nagoya
+Busan
+Incheon
+Chiang Mai
+Phuket
+Siem Reap
+Vientiane
+Yangon
+Ulaanbaatar
+San Francisco
+San Diego
+Dallas
+Miami
+Boston
+Philadelphia
+Atlanta
+Detroit
+Seattle
+Denver
+Medellin
+Cali
+Guayaquil
+Asuncion
+Sucre
+Alexandria
+Kinshasa
+Luanda
+Maputo
+Dakar
+Perth
+Adelaide
+Christchurch
+Port Moresby
+Suva
+Kuwait City
+Manama
+Sanaa
+Damascus
+Beirut
+Hyderabad
+Pune
+Ahmedabad
+Jaipur
+Lucknow
+Macau
+Bishkek
+Tashkent
+Ashgabat
+Dushanbe
+Astana
+Yerevan
+Baku
+Tbilisi
+Minsk
+Kyiv
+Chisinau
+Vilnius
+Riga
+Tallinn
+Reykjavik
+Nuuk
+Thimphu
+Male
